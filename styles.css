@@ -2,6 +2,13 @@ body {
   background-color: #222F35;
 }
 
+@media (min-width:1600px) {
+  body {
+    padding-left: 40%;
+    padding-right: 40%;
+  }
+}
+
 h1,h2,h3,p,h4,h5,h6 {
   color: #B5AEA4;
 }
@@ -139,14 +146,14 @@ h1,h2,h3,p,h4,h5,h6 {
 
 .skill-background-div {
   background-color: #25282A;
-  width: 80%;
+  width: 0px; /*80%*/
   height: 16px;
   position: absolute;
 }
 
 .skill-div {
   background-color: #2C825A;
-  width: 76%;
+/*76%*/
   height: 16px;
   position: absolute;
 }
