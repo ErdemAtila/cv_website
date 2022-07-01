@@ -9,6 +9,13 @@ body {
   }
 }
 
+@media (min-width:1600px) {
+  #header {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
+
 h1,h2,h3,p,h4,h5,h6 {
   color: #B5AEA4;
 }
