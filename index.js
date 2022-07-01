@@ -1,4 +1,3 @@
-/* -1- Anımation for "Skills" section*/
 let skillsBackground = $('.skill-background-div');
 skillsBackground.animate({width: '80%'},700);
 
@@ -12,4 +11,3 @@ setTimeout (function () {
   let skillThreeOnground = $('.skill-div-three');
   skillThreeOnground.animate({width: '70%'},700);
 }, 700)
-/*Ending of "Skills" section -1- */
