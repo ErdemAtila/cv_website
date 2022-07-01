@@ -9,6 +9,13 @@ body {
   }
 }
 
+@media (min-width:1400px) {
+  .header-biggest {
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+}
+
 
 
 h1,h2,h3,p,h4,h5,h6 {
