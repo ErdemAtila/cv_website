@@ -1,0 +1,179 @@
+body {
+  background-color: #222F35;
+}
+
+h1,h2,h3,p,h4,h5,h6 {
+  color: #B5AEA4;
+}
+
+
+
+
+
+.box-div {
+  background-color: #191B1C;
+}
+/* -----------------------------------------------*/
+
+.profile-img {
+  border-radius: 100%;
+  width: 220px;
+}
+
+.header-infos {
+  display: inline-block;
+  padding-top: 2%;
+  padding-left: 15px
+}
+
+#header {
+  margin-top: 1%;
+  background-color: #191B1C;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 3%;
+}
+
+
+.header-i {
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #51585B;
+}
+.resume-button {
+  color: #D2DACD;
+  background-color: #3A8A36;
+  text-align: right;
+  margin-top: 5%;
+}
+
+/*-------------------------------------*/
+#main {
+  padding: 0 5% 0 5%;
+}
+.p {
+  padding-top: 18px;
+}
+.about-me {
+  padding: 3% 5% 3% 5%;
+  background-color: #191B1C;
+  margin-bottom: 20px;
+  border-radius: 1%;
+}
+
+.latest-projects {
+  padding: 3% 5% 3% 5%;
+  background-color: #191B1C;
+  margin-bottom: 20px;
+  border-radius: 1%;
+  text-align: center;
+}
+.other-projects {
+  padding: 3% 5% 3% 5%;
+  background-color: #191B1C;
+  margin-bottom: 20px;
+  border-radius: 1%;
+
+}
+
+.crn-virus-img {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.check-button {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-color: #2D7496;
+  font-weight: bold;
+  border: none;
+}
+
+.project-h5 {
+  margin-top: 20px;
+  display: inline-block;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.project-p {
+  font-size: 12px;
+  display: inline-block;
+  background-color: #2E8850;
+  padding: 2px  3px;
+  border-radius: 5%;
+}
+
+
+
+/* ------------------------------- */
+.contact-infos {
+  background-color: #191B1C;
+  border-radius: 1%;
+  padding: 5%;
+  margin-bottom: 20px;
+
+}
+.contact-icon {
+  color: #CBC6C0;
+  margin-right: 4px;
+}
+
+.skills {
+  background-color: #191B1C;
+  border-radius: 1%;
+  padding: 5%;
+  margin-bottom: 20px;
+
+}
+.skill {
+  padding-bottom: 15px;
+}
+
+.skill-h4 {
+  margin-top: 45px;
+  font-size: 18px;
+}
+
+.skill-background-div {
+  background-color: #25282A;
+  width: 80%;
+  height: 16px;
+  position: absolute;
+}
+
+.skill-div {
+  background-color: #2C825A;
+  width: 76%;
+  height: 16px;
+  position: absolute;
+}
+
+.skill-h4 {
+  margin-top: 45px;
+  font-size: 18px;
+  position: relative;
+}
+
+.skill-line-p {
+  position: absolute;
+  text-align: right;
+  right: 6%;
+  top: 5px;
+  font-size: 15px;
+  color: #CBC6C0;
+}
+
+.skill-a {
+  color: #2C825A;
+  text-decoration: none;
+}
+.skill-a:hover {
+  color: #2C825A;
+  text-decoration:underline;
+}
+.skill-a-div {
+  margin-top: 35px;
+}
