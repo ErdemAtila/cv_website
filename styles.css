@@ -2,14 +2,14 @@ body {
   background-color: #222F35;
 }
 
-@media (min-width:1400px) {
+@media (min-width:1600px) {
   .biggest-div {
     padding-left: 20%;
     padding-right: 20%;
   }
 }
 
-@media (min-width:1400px) {
+@media (min-width:1600px) {
   .header-biggest {
     padding-left: 20%;
     padding-right: 20%;
